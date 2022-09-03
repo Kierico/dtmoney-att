@@ -20,3 +20,7 @@
 
 `npm i @types/styled-components -D`
 
+## Phosphor Icons
+
+`npm i phosphor-react`
+
